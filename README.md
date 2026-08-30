@@ -2,7 +2,6 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/ViP3R76/FiveM-Cleaner?style=flat&logo=github)](https://github.com/ViP3R76/FiveM-Cleaner/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/ViP3R76/FiveM-Cleaner/total?style=flat&logo=github)](https://github.com/ViP3R76/FiveM-Cleaner/releases)
-[![GitHub Stars](https://img.shields.io/github/stars/ViP3R76/FiveM-Cleaner?style=flat&logo=github)](https://github.com/ViP3R76/FiveM-Cleaner)
 
 **FiveM CLEANER – by ViP3R_76** ist ein kleines Hilfsprogramm zur schnellen und gezielten Bereinigung von FiveM-Daten.
 
