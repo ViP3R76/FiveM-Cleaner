@@ -1,0 +1,32 @@
+# Visual Studio / Rider / .NET
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.rsuser
+
+# Build-Ausgaben
+bin/
+obj/
+releases/
+
+# Lokale Publish-Ausgaben
+publish/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Temporäre Dateien
+*.tmp
+*.temp
+*.log
+
+# Resharper / JetBrains
+_ReSharper*/
+*.[Rr]e[Ss]harper.user
+
+# Lokale Sicherungen
+*.bak
+*.orig
