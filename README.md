@@ -1,4 +1,4 @@
-# FiveM CLEANER
+# FiveM CLEANER (Legacy)
 
 [![Latest Release](https://img.shields.io/github/v/release/ViP3R76/FiveM-Cleaner?style=flat&logo=github)](https://github.com/ViP3R76/FiveM-Cleaner/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/ViP3R76/FiveM-Cleaner/total?style=flat&logo=github)](https://github.com/ViP3R76/FiveM-Cleaner/releases)
